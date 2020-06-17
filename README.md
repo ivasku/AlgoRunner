@@ -9,7 +9,7 @@ Developed with Unity3d 2019.3.15f1 version.
 
 Game has the following features:
 ------------
-- **a**: It supports 4 Pathfinding algorithm implementation 
+- **a**: It supports 4 Pathfinding algorithm implementation.
 - **b**: It supports map generation by random generator or reading maps from TXT files, from the Assets/Maps DIR.
 - **c**: It supports configuring the start and end position of the node.
 - **d**: Everything is configurable via options in the game.

@@ -23,6 +23,14 @@ Game contains following implementations:
 - **d**: AStar algorithm implementation.
 - **e**: Home Scene with configurable options.
 - **f**: Game Scene with configurable options, statistics and maze legend.
+- **g**: Maps can be added via TXT file.
+
+Changing maps via TXT file:
+------------
+- **a**: GoTo DIR Assets/Maps
+- **b**: There you will find some maps present , edit the existing file
+- **c**: A map is represented in the TXT format as '0' and '1' , where '0' represent walkable tiles and '1' obstacles
+- **d**: Just create a maze you want :).
 
 Assets:
 ------------

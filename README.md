@@ -13,7 +13,7 @@ Game has the following features:
 - **b**: It supports map generation by random generator or reading maps from TXT files, from the Assets/Maps DIR.
 - **c**: It supports configuring the start and end position of the node.
 - **d**: Everything is configurable via options in the game.
-- **e**: Displays algorithm path statistics.
+- **e**: Displays algorithm path statistics after the run is over. During the run button is disabled.
 
 Game contains following implementations:
 ------------
